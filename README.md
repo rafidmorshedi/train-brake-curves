@@ -8,7 +8,7 @@ These tables should be read in conjunction with the notes in the relevant standa
 
 ## Data Dictionary
 | Column Name 	| Description 	|  
-|---	|---	|---	|
+|---	|---	|
 |brake_curve	| Name of the brake curve	|
 | speed_kph 	| Speed in kilometers per hour 	|
 | grade_1_in_x 	| Grade in terms of 1 in x. e.g. 33 would indicate a grade of 1 in 33 or 1 m of elevation gain for 33 m of horizontal travel. Negative indicates a falling grade. 0 indicates level track| 
