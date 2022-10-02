@@ -1,7 +1,7 @@
 # train-brake-curves
 A repository of train stopping distance (aka brake curves) tables in a machine readable format from NSW, Australia.
 
-This repositiry was created to make it easier for railway analysts in Australia to build models without having to digitise data from various brake tables.the [TS 04068:1.0 RSU Appendix C – Brake Performance Curves](https://www.transport.nsw.gov.au/system/files?file=media/asa_standards/2022/ts-04068-1.0.pdf) from Transport for NSW.
+This repositiry was created to make it easier for railway analysts in Australia to build models without having to digitise data from various brake table standards.
 
 ## Notes
 These tables should be read in conjunction with the notes in the relevant standard they were digitised from.
